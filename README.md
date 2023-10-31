@@ -1,6 +1,6 @@
 # Image-classification-CNN
 
-This repository contains a Deep Learning project focused on image classification using Convolutional Neural Networks (CNN) with the Fashion MNIST dataset. The project demonstrates how to build a CNN model to classify images of fashion items, such as clothing and shoes.
+This repository contains a Deep Learning project focused on images classification using Convolutional Neural Networks (CNN) with the Fashion MNIST dataset. The project demonstrates how to build a CNN model to classify images of fashion items, such as clothing and shoes.
 
 
 ## Used Libraries 
@@ -18,11 +18,11 @@ Here's a sample of what the results might look like:
 
 ![Alt text](output.png)
 
-You can find the complete results and analysis in the Jupyter notebook.
+You can find the complete results in the Jupyter notebook.
 
 
 
 ## Acknowledgements
 
 - This project is part of ML bootcamp provided by <a href="https://clarusway.com/"> Clarusway</a>.
-- We make use of the Fashion MNIST dataset, which is a publicly available dataset for image classification originally created by Han Xiao.
+- We make use of the Fashion MNIST dataset, which is a publicly available dataset for image classification originally created by Han Xiao, Kashif Rasul, and Roland Vollgraf.
