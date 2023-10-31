@@ -1,2 +1,4 @@
+# ignore keras model
 *.keras
-#ignore cnn model
+
+
